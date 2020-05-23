@@ -384,3 +384,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerRb: {fileID: 1391055718}
   speed: 2
+  jumpSpeed: 300
